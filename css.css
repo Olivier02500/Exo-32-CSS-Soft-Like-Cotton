@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: papayawhip;
+    border: 3px solid black;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+p {
+    text-align: center;
+    margin-top: 60px;
+}
+
+
+#simplon {
+    height:300px ;
+    width: 500px;
+    border: 3px solid black;
+}
+
+#lorem {
+    height:300px ;
+    width: 500px;
+    border: 3px solid black;
+}
+
+.pac1 ,.pac2 {
+    margin-top:40px ;
+    display: inline-block;
+}
+
+.pac1 {
+    margin-left: 250px
+}
+
+.pac1 {
+    margin-right: 250px
+}
+
+footer {
+    margin-top: 111px;
+    width: 100%;
+    height: 150px;
+    background: grey;
+}
